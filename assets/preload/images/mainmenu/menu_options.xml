@@ -3,9 +3,5 @@
 	<!-- Created with Adobe Animate version 18.0.1.115 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="options basic0000" x="0" y="0" width="754" height="148"/>
-	<SubTexture name="options basic0001" x="828" y="148" width="116" height="135" frameX="-12" frameY="-13" frameWidth="828" frameHeight="148"/>
-	<SubTexture name="options basic0002" x="828" y="148" width="116" height="135" frameX="-12" frameY="-13" frameWidth="828" frameHeight="148"/>
 	<SubTexture name="options white0000" x="0" y="148" width="828" height="148"/>
-	<SubTexture name="options white0001" x="828" y="148" width="116" height="135" frameX="-86" frameY="-13" frameWidth="828" frameHeight="148"/>
-	<SubTexture name="options white0002" x="828" y="148" width="116" height="135" frameX="-86" frameY="-13" frameWidth="828" frameHeight="148"/>
 </TextureAtlas>
